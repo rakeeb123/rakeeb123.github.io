@@ -142,8 +142,8 @@ a:hover {
   position: relative;
   width: 250px;
   height: 250px;
-  margin: 0 0 10px 0;
-  border-radius: 30%;
+  margin: 0 0 0px 0px;
+  border-radius: 50%;
   overflow: hidden;
 }
 .img-frame img {
