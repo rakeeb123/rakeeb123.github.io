@@ -67,7 +67,7 @@ function setBioEventListener() {
 
 function bioToggle(e) {
   if (e.target.id == "resume") {
-    window.open("res/resume.pdf");
+    window.open("resume.pdf");
   } else {
     let bioType = e.target;
     let color = getRandomColor();
