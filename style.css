@@ -140,8 +140,8 @@ a:hover {
 
 .img-frame {
   position: relative;
-  width: 300px;
-  height: 300px;
+  width: 250px;
+  height: 250px;
   margin: 0 0 10px 0;
   border-radius: 30%;
   overflow: hidden;
